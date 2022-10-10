@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amakarivas
-- 👀 I’m interested in open source design 
-- 🌱 I’m currently learning Ui/Ux design
+- 👀 I’m interested in contributing to open source 
+- 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Open Source Projects 
 - 📫 How to reach me ...
 Twitter @amakarivas
