@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @amakarivas
-- 👀 I’m interested in contributing to open source 
+- 👋 Hi, I’m Amaka Ubaka
+- - 👀 I am a software quality assurance engineer who uses cypress for end to end testing, postman for api testing  
+- 👀 I am also interested in contributing to open source projectss
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Open Source Projects 
 - 📫 How to reach me ...
